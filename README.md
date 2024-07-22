@@ -1,2 +1,2 @@
 #sec proj
-push repo from local 
+push repo from local .
